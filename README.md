@@ -13,7 +13,7 @@ Input: n = 3 <br>
 Output: false<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Recursion_Assignment9/blob/main/ans1.js)<br>
 ************************************************************************************************
 **Question 2**<br>
 Given a number n, find the sum of the first natural numbers.<br>
@@ -25,7 +25,7 @@ Input  : 5 <br>
 Output : 15<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Recursion_Assignment9/blob/main/ans2.js)<br>
 ************************************************************************************************
 **Question 3**<br>
 Given a positive integer, N. Find the factorial of N. <br>
@@ -38,7 +38,7 @@ Output: 24<br><br>
 
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Recursion_Assignment9/blob/main/ans3.js)<br>
 ************************************************************************************************
 **Question 4**<br>
 Given a number N and a power P, the task is to find the exponent of this number raised to the given power, i.e. N^P.<br>
@@ -50,7 +50,7 @@ Input: N = 2, P = 5<br>
 Output: 32<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Recursion_Assignment9/blob/main/ans4.js)<br>
 ************************************************************************************************
 **Question 5**<br>
 Given an array of integers **arr**, the task is to find maximum element of that array using recursion.<br>
@@ -62,7 +62,7 @@ Input: arr = {1, 4, 45, 6, 10, -8};<br>
 Output: 45<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Recursion_Assignment9/blob/main/ans5.js)<br>
 ************************************************************************************************
 **Question 6**<br>
 Given first term (a), common difference (d) and a integer N of the Arithmetic Progression series, the task is to find Nth term of the series.<br>
@@ -76,7 +76,7 @@ Output : 23<br>
 The 10th term of the series is : 23<br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Recursion_Assignment9/blob/main/ans6.js)<br>
 ************************************************************************************************
 **Question 7**<br>
 Given a string S, the task is to write a program to print all permutations of a given string.<br>
@@ -92,7 +92,7 @@ Given a string S, the task is to write a program to print all permutations of a 
 *“XY”, “YX”*<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Recursion_Assignment9/blob/main/ans7.js)<br>
 ************************************************************************************************
 **Question 8**<br>
 Given an array, find a product of all array elements.<br>
@@ -104,5 +104,5 @@ Input  : arr[] = {1, 6, 3}<br>
 Output : 18<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Recursion_Assignment9/blob/main/ans8.js)<br>
 ************************************************************************************************
